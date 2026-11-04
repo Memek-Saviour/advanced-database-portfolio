@@ -1,6 +1,6 @@
 # MIT 8103 Advanced Database Systems Portfolio
 
-**Student:** Mecky
+**Student:** Memekobong Saviour Udoh
 **Programme:** Master of Information Technology, Miva Open University
 **Session:** 2026/2027, First Semester
 
