@@ -1,6 +1,7 @@
 # Portfolio 1: Database Design and Modelling
 
 **Case study:** SaviourPay Digital Bank (Simulated)
+
 **Status:** In progress
 
 ## Deliverables
