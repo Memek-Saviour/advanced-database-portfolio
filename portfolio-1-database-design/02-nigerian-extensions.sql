@@ -10,9 +10,9 @@ CREATE TABLE kyc_tier_limits (
 );
 
 INSERT INTO kyc_tier_limits (tier, description) VALUES
-    (1, 'Tier 1 - basic account', 300000.00, 50000.00), 
-    (2, 'Tier 2 - standard account', 500000.00, 200000.00),
-    (3, 'Tier 3 - full KYC account', NULL, Null); -- Unlimited / risk-based per bank policy
+    (1, 'Tier 1 - basic account'),
+    (2, 'Tier 2 - standard account'),
+    (3, 'Tier 3 - full KYC account');
 
 -- TODO: fill in max_balance and daily_transfer_limit using the
 -- current CBN figures, and cite the source in the README.
