@@ -61,7 +61,7 @@ erDiagram
         bigint customer_id FK
         int bank_id FK
         string account_number
-        string bank_name
+
     }
     TRANSACTIONS {
         bigint transaction_id PK
