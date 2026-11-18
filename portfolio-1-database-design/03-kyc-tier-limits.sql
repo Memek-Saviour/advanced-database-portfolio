@@ -2,7 +2,7 @@
 -- Tier 1 and Tier 3 source: CBN circular BPS/DIR/GEN/CIR/04/007,
 -- 7 September 2017, "Review of daily mobile money wallet
 -- transaction and balance limit"
--- Tier 2 daily limit source: REPLACE THIS WITH YOUR SOURCE
+-- Tier 2 daily limit source: https://www.mypryme.com/blog/kyc-tier-limits-nigeria
 -- Note: verify against current CBN figures before submission.
 
 UPDATE kyc_tier_limits
